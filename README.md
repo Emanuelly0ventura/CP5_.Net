@@ -4,13 +4,13 @@ Projeto atualizado a partir da prova anterior para atender à avaliação práti
 
 ## Integrantes
 ### Carolina Nascimento Gonçalves
-RM564786 - 2TDSPJ
+RM564786 - 2TDSPI
 
 ### Julia Sayuri Kina
-RM564555 - 2TDSPJ
+RM564555 - 2TDSPI
 
 ### Emanuelly Ventura do Nascimento
-RM562339 - 2TDSPJ
+RM562339 - 2TDSPI
 
 ## Tecnologias
 
